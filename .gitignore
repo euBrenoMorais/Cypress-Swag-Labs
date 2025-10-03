@@ -1,0 +1,28 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Arquivos do Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Relatórios Mochawesome
+cypress/reports/
+mochawesome-report/
+mochawesome.json
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configurações locais
+.env
+.idea/
+.vscode/
+*.swp

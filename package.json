@@ -1,0 +1,35 @@
+{
+  "name": "cypress-e2e-automation",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "type": "commonjs",
+  "author": {
+    "name": "Breno Morais Alves",
+    "email": "breno242001@gmail.com",
+    "url": "https://github.com/euBrenoMorais"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euBrenoMorais/Cypress-Swag-Labs.git"
+  },
+  "scripts": {
+    "test": "cypress run",
+    "test:headed": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "qa",
+    "testing",
+    "end-to-end"
+  ],
+  "devDependencies": {
+    "cypress": "^15.3.0",
+    "cypress-mochawesome-reporter": "^3.8.4",
+    "mochawesome": "^7.1.4"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.0.0"
+  }
+}
