@@ -128,8 +128,8 @@ cypress/reports/html/index.html
 
 ## 👨‍💻 Autor
 
-**Binho**  
-Analista de QA | Automação de Testes | Cypress E2E  
+**Breno Morais Alves**  
+QA | Automação de Testes | Cypress E2E  
 📌 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/seuusuario)
 
 ---
