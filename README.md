@@ -130,7 +130,7 @@ cypress/reports/html/index.html
 
 **Breno Morais Alves**  
 QA | Automação de Testes | Cypress E2E  
-📌 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/seuusuario)
+📌 [LinkedIn](https://www.linkedin.com/in/breno-morais-alves-744b77188/) • [GitHub](https://github.com/euBrenoMorais)
 
 ---
 
