@@ -1,5 +1,3 @@
-/// <reference types="cypress" />
-
 describe('Produtos - E-commerce', () => {
   let productNames = [
       'Sauce Labs Backpack',
