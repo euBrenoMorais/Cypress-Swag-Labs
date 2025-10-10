@@ -1,5 +1,3 @@
-/// <reference types="cypress" />
-
 describe('Carrinho de Compras - E-commerce', () => {
   const productNames = [
     'Sauce Labs Backpack',
